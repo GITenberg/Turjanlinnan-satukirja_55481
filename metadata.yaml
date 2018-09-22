@@ -1,0 +1,33 @@
+_repo: Turjanlinnan-satukirja_55481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kianto, Ilmari
+    alias: Calamnius, Ilmari
+    birthdate: 1874
+    deathdate: 1970
+    gutenberg_agent_id: '44960'
+    url: http://www.gutenberg.org/2009/agents/44960
+description: ''
+gutenberg_issued: '2017-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55481'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Finnish'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Kirjantekijän esipuhelma -- Tutteliini -- Kissa Mirri Valkonen --
+  Kotikoiramme Hurtta Pystykorva Fox… -- Uni-Matti -- Ruoka-Jussi -- Itku-Iikka --
+  Ämmy -- Porosta ja porolla-ajaja-tytöstä -- Pappilan kanakammiosta -- Pöksy-Paavo
+  ja Paita-Maija ja Puuro-Petteri ja Pörrö-Kerttu ja Klosu-Klisu-Kaaperi -- Punaiset
+  posket -- Tiukukoipi tyttö -- Pikku Pojan kirkko -- Kaiken Kyselijä Tyttö -- Tuittupäät
+  ja Keijut -- Pojat ja tytöt järvenrannassa eli Kesälän uimakoulu -- Turjanlinnan
+  akkunaruudut -- Sotapukki -- Sääskensyömäri Poika -- Miten kesävieraita saadaan
+  -- Kummitus on kultainen herra!
+title: Turjanlinnan satukirja
+url: http://www.gutenberg.org/ebooks/55481
